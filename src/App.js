@@ -16,7 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn react
-          t-kas-01-comment
 
         </a>
       </header>
