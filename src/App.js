@@ -15,7 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn react
+          t-kas-01-comment
+
         </a>
       </header>
     </div>
